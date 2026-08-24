@@ -1,0 +1,38 @@
+# R
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+renv/library/
+renv/staging/
+
+# Generated analysis outputs
+results/
+figures/
+tables/
+
+# Temporary manuscript reproduction workspace
+results/manuscript_mcmc_work/
+results/legacy_manuscript_run/
+
+# Large serialized objects
+*.rds
+*.RDS
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+
+# R graphics generated interactively
+Rplots.pdf
+
+# Temporary diagnostic scripts
+scripts/*_check_*.R
+
+# Archived generated outputs
+reference/refactored_10k_analysis/results_external/
+reference/refactored_10k_analysis/results_meta/
+
+# Office temporary files
+~$*
